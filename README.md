@@ -1,2 +1,3 @@
-# PredictiveAnalystics
-ML models
+# MSBA 6420 Predictive Analystics
+
+
